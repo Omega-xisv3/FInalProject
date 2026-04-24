@@ -1,1 +1,11 @@
+FINAL PROJECT - WEBSITE PLAN
+
+1. 
+   Homepage - landing.html
+   Code Editor - cedit.html
+   Html Semantics - sem.html
+   CSS layout & responsive design - cssl.html
+   Accessability & Ethical Issues - access.html
+   Validation - val.html
+   Ai Usage - ai.html
 
