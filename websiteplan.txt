@@ -1,11 +1,63 @@
 FINAL PROJECT - WEBSITE PLAN
 
-1. 
-   Homepage - landing.html
-   Code Editor - cedit.html
-   Html Semantics - sem.html
-   CSS layout & responsive design - cssl.html
-   Accessability & Ethical Issues - access.html
-   Validation - val.html
-   Ai Usage - ai.html
+1. Pages
 
+Homepage - landing.html
+Code Editor - cedit.html
+HTML Semantics - sem.html
+CSS layout & responsive design - cssl.html
+Accessibility - access.html
+Ethics - ethics.html
+Validation - val.html
+AI Usage - ai.html
+
+2. Page Explanations
+
+Homepage - On the homepage it will be the first page that shows when the site gets loaded up. It will have links in a line, kind of like how semantics have them listed, but it will be centered.
+Code Editor - Will talk about code editors that are used to make HTML pages. Will give a tutorial on how to install and use.
+HTML Semantics -Will be a page explaining how semantics work. I'll have them jump to the information.
+CSS layout and responsive design - This page will be dedicated to parts of CSS that I enjoyed using throughout the course and things I'll most likely use going forward. I will also have the page be responsive since that is something that is CSS reliant.
+Accessibility - I will discuss on this page the reason why it is good to make your website accessible for more users
+Ethical Features - I will go over the ethics that can arise when dealing with accessibility business-wise and consumer-wise.
+Validation - This entire section will be about informing readers about the existence of validators. I will inform readers on HTML, CSS, and Wave validators.
+Ai usage - This page will lightly go over how AI is used in web design. It will explain how it can help the user and how it can be detrimental to their progress.
+
+3. Planned Inclusions
+
+Images- I will include screenshots that provide necessary understanding based on the page.
+Icons - I will have navigation icons that will be used to help my users navigate my pages.
+Videos - If I were to include videos, it would be videos explaining concepts to the user.
+Tables and lists - I will use a few tables so that I can compare things like gridbox and flexbox.
+Forms - I'll have a form on my homepage where it will be used as an example piece of where people would ask for certain things.
+
+4. Navigation
+
+Navigation - I have links leading to the other pages, all linked on my main page. I will have a section above my footer that lists links taking to other pages on the pages. I will have an about section and a form where the user can submit a form asking me questions.
+Footer Link - Will Include a GitHub link leading to my page on each page.
+
+5. Accessibility
+(a) Any image I use will have a small alt text explaining what it's about.
+(b) I will have H1 used for headers, H2 used for sections of the page, and H3 will be used for any smaller sections that aren't the most relevant parts.
+(c) I will make sure that the colors i use fit the required guidelines of the wave accesibility tool.
+
+6. Structure
+/FinalProject
+index.html
+/pages
+landing.html
+cedit.html
+sem.html
+cssl.html
+access.html
+ethics.html
+val.html
+ai.html
+/css
+style.css
+/img
+hero.jpg
+logo.png
+screenshots.jpg
+
+7.
+I use the validators provided by W3 and the Wave validator.
