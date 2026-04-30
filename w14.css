@@ -1,0 +1,46 @@
+
+
+body {
+    background-color: darkseagreen;
+}
+
+h1 {
+    color: #1a1a2e;
+}
+
+h2 {
+   color: #1a1a2e;
+}
+
+h3 {
+   color: #1a1a2e;
+}
+p {
+   color: #1a1a2e;
+}
+
+a {
+    color: #00008b;
+}
+
+a:hover {
+    color: #7b0000;
+} 
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 600px) {
+  nav {
+    flex-direction: column;
+    align-items: center;
+  }
+}
